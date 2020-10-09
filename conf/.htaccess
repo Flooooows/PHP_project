@@ -1,0 +1,4 @@
+AuthName "Repertoire secret"
+AuthType Basic
+AuthUserFile "/www/php_project/conf/.htpasswd"
+Require valid-user
